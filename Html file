@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Space related Website Template</title>
+</head>
+<body>
+    <div class="header">
+        <div class="nav">
+            <h1>Saggy<span>-Space</span></h1>
+            <ul>
+                <li>Home</li>
+                <li>Missions</li>
+                <li>About</li>
+                <li>Contact us</li>
+            </ul>
+        </div>
+        <div class="image">
+            <img src="./rocket2.png" alt="">
+        </div>
+        <img src="./astronaut.png" alt="" class="shake">
+        <div class="main">
+            <div class="picture">
+                <img src="./astronaut.png" alt="">
+            </div>
+            <div class="main__text">
+                <h1>Saggy<span>Space</span></h1>
+                <p>Space is an almost perfect vacuum, nearly void of matter and with extremely low pressure. In space, sound doesn't carry because there aren't molecules close enough together to transmit sound between them.</p>
+                <button class="btn">Join us 🚀</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
